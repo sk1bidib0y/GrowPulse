@@ -17,7 +17,6 @@ GrowPulse is an app that helps farmers and gardening enthusiasts automate their 
 	2. Line Graph
 	3. Scatter Plot
 	4. Bar Chart
-![A box plot showing Growth Rate of Crop Types grouped by Crop types](ReadmeContent\Stats_data.png)
 ---
 - [x] Allow users to export data by limiting it to set specific fields.
 - [x] Keep track of real time metrics such as,
@@ -26,5 +25,5 @@ GrowPulse is an app that helps farmers and gardening enthusiasts automate their 
 	2. Humidity Percentage
 	3. Soil Moisture Percentage
 	4. Sprinkler Status (On / Off)
-![Dashboard showing real-time metrics](ReadmeContent\rt_metrics.png)
+
 - [ ] Track nutrient deficiences in plants via a Machine Learning Model

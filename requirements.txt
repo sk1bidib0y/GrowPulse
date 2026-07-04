@@ -1,0 +1,5 @@
+streamlit
+streamlit-on-hover-tabs
+pandas
+numpy
+plotly

@@ -1,0 +1,33 @@
+[data-testid="stSidebarCollapse"] {
+    display: none !important;
+}
+section[data-testid="stSidebar"] {
+    min-width: 80px !important;
+    width: 80px !important;
+    transition: width 0.3s ease-in-out, min-width 0.3s ease-in-out !important; 
+}
+div[data-testid="stSidebarUserContent"] {
+    width: 80px !important;
+    transition: width 0.3s ease-in-out !important;
+    overflow: hidden !important;
+}
+section[data-testid="stSidebar"]:hover {
+    min-width: 260px !important;
+    width: 260px !important;
+}
+section[data-testid="stSidebar"]:hover div[data-testid="stSidebarUserContent"] {
+    width: 260px !important;
+}
+section[data-testid="stSidebar"] iframe {
+    width: 100% !important;
+}
+.reportview-container {
+    margin-top: -2em;
+}
+#MainMenu {visibility: hidden;}
+.stDeployButton {display:none;}
+footer {visibility: hidden;}
+#stDecoration {display:none;}
+button[data-testid="stBaseButton-header"] {display: none !important;}
+img[data-testid="stSidebarLogo"] {margin-top: 15px; margin-left: 3px; width: 170px; height: 170px;}
+div[data-testid="stSidebarCollapseButton"] {display: none !important;}

@@ -1,0 +1,18 @@
+[theme]
+# The base theme engine to inherit from ("light" or "dark")
+base = "dark"
+
+# The accent color for active tabs, sliders, and primary buttons (Greenhouse Green)
+primaryColor = "#4C7031"
+
+# The main background color of your application
+backgroundColor = "#0E1117"
+
+# The background color for sidebar menus and widget cards (border=True containers)
+secondaryBackgroundColor = "#1C212A"
+
+# The color of titles, headers, and regular text
+textColor = "#F3F4F6"
+
+# Font family options: "sans serif", "serif", or "monospace"
+font = "sans serif"
